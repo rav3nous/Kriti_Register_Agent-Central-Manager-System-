@@ -19,3 +19,11 @@ Example Usage:
 Central agent invokes the register agent whenever a new registration event is detected in the Kriti app.
 
 Register agent processes, validates, and confirms the registration, updating app status and notifying relevant services as needed.
+
+
+# Directions for testing
+at the root add .env file which has the openai api key   
+to load variables from .env -> pip install dotenv
+to run the agent, navigate to the agents folder and run- python manager_agent.py
+the conversation starts in the terminal
+to view the conversations go to the log.txt file in the agents folder. 
