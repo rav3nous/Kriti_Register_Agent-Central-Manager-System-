@@ -1,0 +1,368 @@
+----------------------------------------------------------------------------------------------------------------------
+11:07 28-07-2025
+
+(.venv) E:\ksepiyas\coding\login-agent\registration_flow_agent_2\agents>python manager_agent.py
+Chat started! (type 'exit' to quit)
+
+You: hi
+Agent: Hi there! How can I help you today? I am here to guide you through the Ksepiyas Website.
+0    
+You: I want to register 
+Agent: Hello. I require the following details to complete the registration process:
+
+1. Full Name
+2. Email
+3. Phone Number
+4. Password
+
+Kindly tell your full name.
+0
+You: Pranav
+Agent: Thank you, Pranav. Now, please provide your email address for the registration.
+0
+You: xyz
+Agent: The email address you provided seems incomplete. Could you please provide a full and valid email address (for example, example@domain.com)?
+0
+You: xyz@outlook.com
+Agent: May I have your phone number to proceed with the registration?
+0
+You: yes sure, 9877899876
+Agent: Thank you for providing your phone number. Finally, please provide a password for your account registration. Make sure it's secure and something you can remember.
+3. Phone Number
+4. Password
+
+Kindly tell your full name.
+0
+You: Pranav
+Agent: Thank you, Pranav. Now, please provide your email address for the registration.
+0
+You: xyz
+Agent: The email address you provided seems incomplete. Could you please provide a full and valid email address (for example, example@domain.com)?
+0
+You: xyz@outlook.com
+Agent: May I have your phone number to proceed with the registration?
+0
+You: yes sure, 9877899876
+Agent: Thank you for providing your phone number. Finally, please provide a password for your account registration. Make sure it's secure and something you can remember.
+4. Password
+
+Kindly tell your full name.
+0
+You: Pranav
+Agent: Thank you, Pranav. Now, please provide your email address for the registration.
+0
+You: xyz
+Agent: The email address you provided seems incomplete. Could you please provide a full and valid email address (for example, example@domain.com)?
+0
+You: xyz@outlook.com
+Agent: May I have your phone number to proceed with the registration?
+0
+You: yes sure, 9877899876
+Agent: Thank you for providing your phone number. Finally, please provide a password for your account registration. Make sure it's secure and something you can remember.
+Agent: The email address you provided seems incomplete. Could you please provide a full and valid email address (for example, example@domain.com)?
+0
+You: xyz@outlook.com
+Agent: May I have your phone number to proceed with the registration?
+0
+You: yes sure, 9877899876
+Agent: Thank you for providing your phone number. Finally, please provide a password for your account registration. Make sure it's secure and something you can remember.
+You: yes sure, 9877899876
+Agent: Thank you for providing your phone number. Finally, please provide a password for your account registration. Make sure it's secure and something you can remember.
+Agent: Thank you for providing your phone number. Finally, please provide a password for your account registration. Make sure it's secure and something you can remember.
+ and something you can remember.
+0
+You: avcd
+Agent: I have all the details to complete your registration. If you need any more assistance or have other requests, please let me know! 
+0
+You: Please register me 
+Agent: Could you please provide your country code along with your phone number so I can validate it properly? If you don't know your country code, just let me know your country name.
+0    
+You: banglasesh
+Agent: Kindly provide your phone number without the country code to complete the validation.
+0    
+You: but yu had it just now
+Agent: I'll confirm your registration details now:
+
+- Full Name: Pranav
+- Email: xyz@outlook.com
+- Phone Number: +880 9877899876
+- Password: **** [Hidden]
+
+Everything looks good! Please review and confirm these details. If everything is correct, I'll proceed with the registration. Please let 
+me know if you'd like to make any changes.
+
+Also, kindly read the Terms and Conditions [here](https://ksepiyas.com/terms). Once you have read and agree, just type "I agree."        
+0    
+You: I agree
+Agent: Great! Your registration process is complete. Welcome aboard!
+0
+
+--------------------------------------------------
+Chat started! (type 'exit' to quit)
+
+You: hi
+Agent:Hi there! How can I help you today? I am here to guide you through the Ksepiyas Website.
+--------------------------------------------------
+Chat started! (type 'exit' to quit)
+
+You: register
+Agent:Hello! I am here to help you with the registration process. To get started, I need the following details from you:
+1. Full Name
+2. Email
+3. Mobile Number (including country code)
+4. Password
+
+Kindly provide your full name to begin.
+You: Pranav
+Agent:Great, Pranav! Now please provide your email address.
+You: 9877895643
+Agent:The number you provided seems to be a mobile number. Please provide your email address for the registration process. Also, make sure to include the country code with your mobile number later for accuracy.
+You: xyz@gmail.com
+Agent:Thank you for providing your email address. Now, please provide your mobile number including the country code.
+You: idk country code
+Agent:No worries! Please tell me your country, and I will help you find the correct country code for your mobile number.
+You: china
+Agent:Once you provide your mobile number with the country code +86, we can proceed with the registration.
+You: 9988767
+Agent:Great! You provided the mobile number as +86 9988767.
+
+Lastly, please set a password for your account. The password should be strong, ideally including letters, numbers, and special characters.
+You: is my phine valid, do you provide sefvice in china
+Agent:You asked if your phone number is valid and if the service is available in China.
+
+Regarding phone number validity, the number you provided (9988767) seems quite short and may not be a complete mobile number for standard use in China. Typically, Chinese mobile numbers are 11 digits long following the country code (+86).
+
+Regarding service availability, as an assistant, I need to check if the service is provided in China. Since this requires specific information about the service region, I suggest verifying from the official website or customer support for China region availability.
+
+Would you like me to assist you further with phone number validation or any other part of the registration?
+--------------------------------------------------
+Chat started! (type 'exit' to quit)
+
+You: hi
+Agent:Hi there! How can I help you today? I am here to guide you through the Ksepiyas Website.
+You: i want to register
+Agent:Hello. I require the following details to complete the registration process.
+1. Full Name
+2. Email
+3. Phone number
+4. Password
+Kindly tell your full name.
+You: i m Pranav set pssword 123 and mail is xyzz@mxs
+Agent:I have noted your full name as Pranav, your email as xyzz@mxs, and your password as 123. For registration, I also need your phone number. Could you please provide it?
+You: 9988665544
+Agent:Your email format seems invalid. Please provide a valid email address in the format username@domain. Also, I need the country code for your phone number to proceed. If you don't know your country code, please tell me your country name.
+You: xyz@gmail.com
+Agent:Could you please confirm if you want to provide country code with the phone number or you want to provide country name instead? This will help me proceed accordingly.
+You: i dont know my cournt code
+Agent:No problem. Please tell me your country name, and I will identify the country code for your phone number.
+You: usa
+Agent:Thank you. The country code for USA is not in our service list, but we do have Canada with country code +1. Did you mean Canada?
+You: no i have an indian number wil that dd
+Agent:Please enter your phone number now, excluding the country code +91.
+You: 9765432103
+Agent:I have got all the required details. Kindly review them and revert back with your confirmation.
+    Full Name: Pranav
+    Email: xyz@gmail.com
+    Phone Number: +91 9765432103
+    Password: **** [ Hidden for security reasons, If you wish to view, please ask to show password]
+Kindly read the Terms and Conditions here https://ksepiyas.com/terms. Once you have read and want to accept, kindly type "I agree."
+You: show password
+Agent:Your password is: 123
+
+Please confirm if you agree to the Terms and Conditions so that we can complete your registration.
+You: i want to change passsword please
+Agent:Please provide the new password you want to set.
+You: 12345
+Agent:Your password has been changed. Please review your details once again.
+Full Name: Pranav
+Email: xyz@gmail.com
+Phone Number: +91 9765432103
+Password: **** [ Hidden for security reasons, If you wish to view, please ask to show password]
+
+Let me know if you want to proceed further.
+You: yes i accpet t and c
+Agent:Thank you for accepting the Terms and Conditions. Your registration is now complete.
+
+Registration Successful!
+--------------------------------------------------
+Chat started! (type 'exit' to quit)
+
+You: Hi
+Agent:Hi there! How can I help you today? I am here to guide you through the Ksepiyas Website.
+You: What is burj khalifa
+Agent:Sorry, I can't help with this. My purpose is to help you wiht the Ksepiyas Portal, I can help you to register on the Ksepiyas Website. Please let me know if you want to register.
+You: My mananger is very bad, i ma fedup
+Agent:Sorry, I can't help with this. My purpose is to help you wiht the Ksepiyas Portal, I can help you to register on the Ksepiyas Website. Please let me know if you want to register.
+You: Who are you
+Agent:Hello! I am here to guide you through the Ksepiyas Website. How can I help you today?
+You: I wanna regsiter
+Agent:Hello. I require the following details to complete the registration process.
+1. Full Name
+2. Email
+3. Phone number
+4. Password
+Kindly tell your full name.
+You: Why are you talking to me, i sense chance of theft of my info
+Agent:Sorry, I can't help with this. My purpose is to help you wiht the Ksepiyas Portal, I can help you to register on the Ksepiyas Website. Please let me know if you want to register.
+You: ok lets register
+Agent:Great! Please tell me your full name to begin the registration process.
+You: I am Pranav
+Agent:The name you entered seems to have an extra word "I am". Please provide your full name only. For example, "Pranav Kukreja". Could you please tell me your full name?
+You: Pranav Pandey
+Agent:Ok Pranav, please enter your email.
+You: xyz@gmail.com
+Agent:Ok, got your email. Can you please enter your country code and phone number now? If you don't know your country code, just tell me your country name.
+You: umm i live in russia
+Agent:You mentioned Russia as your country, but currently we offer services only in the following countries:
+- Canada
+- India
+- South Africa
+- South Korea
+
+Unfortunately, we don't offer services in Russia. Could you please tell me if your country is one of the above, or if there's another country you want to register from?
+--------------------------------------------------
+Chat started! (type 'exit' to quit)
+
+You: i think u are a theif
+Agent:Sorry, I can't help with this. My purpose is to help you wiht the Ksepiyas Portal, I can help you to register on the Ksepiyas Website. Please let me know if you want to register.
+You: okiee
+Agent:Hello! I am here to guide you through the Ksepiyas Website. How can I help you today?
+You: ok lets register
+Agent:Hello. I require the following details to complete the registration process.
+1. Full Name
+2. Email
+3. Phone number
+4. Password
+Kindly tell your full name.
+You: Pranav Kukreja xyz@gmail.com 9988223344 +91 abc123 
+Agent:I have noted down the details:
+Full Name: Pranav Kukreja
+Email: xyz@gmail.com
+Phone number: 9988223344
+Password: abc123
+
+Is everything correct, or would you like to make any changes?
+You: correct
+Agent:I have completed your registration on the Ksepiyas Website. If you need any further assistance or have questions, feel free to ask!
+You: you didnot ask to accept t and c
+Agent:Sorry, I can't help with this. My purpose is to help you wiht the Ksepiyas Portal, I can help you to register on the Ksepiyas Website. Please let me know if you want to register.
+--------------------------------------------------
+Chat started! (type 'exit' to quit)
+
+You: regsiter Pranav Kukreja xyz@gmail.com +91  9988223344 abc123 
+Agent:The country code +91 corresponds to India. For India, the phone number must have exactly 10 digits. 
+You have entered phone number 9988223344 which has 10 digits. So, the phone number is valid.
+
+Now, the last step is your password. You provided "abc123" which is not empty, so it's accepted.
+
+I have got all the required details. Kindly review them and revert back with your confirmation.
+Full Name: Pranav Kukreja
+Email: xyz@gmail.com
+Phone Number: +91 9988223344
+Password: ****** [Hidden for security reasons, If you wish to view, please ask to show password]
+
+Please confirm if these details are correct or if you'd like to change anything.
+You: yes correct
+Agent:Kindly read the Terms and Conditions here https://ksepiyas.com/terms. Once you have read and want to accept, kindly type "I agree."
+You: I agree
+Agent:Registration Successful! Thank you for completing the registration process. If you need any further assistance, feel free to ask.
+--------------------------------------------------
+Chat started! (type 'exit' to quit)
+
+You: Hi can u help me register
+Agent:Hello! I'd be happy to help you with your registration. To get started, could you please provide me with your full name?
+You: pranav
+Agent:Thanks, Pranav. Please enter your email.
+You: xyz@gmail.com
+Agent:Ok got your email, can you please enter your country code and phone number now? If you don't know your country code, just let me know and I will help you find it.
+You:  9955778833 india
+Agent:You mentioned your phone number and country name "india". Let me confirm the country code for India.
+
+Thanks, The country code for India is +91. Please tell your phone number excluding the country code. Is your phone number 9955778833?
+You: yes
+Agent:Great! Your phone number looks good. Now, please enter your password.
+You: 1234
+Agent:I have got all the required details. Kindly review them and revert back with your confirmation.
+Full Name: pranav
+Email: xyz@gmail.com
+Phone Number: +91 9955778833
+Password: **** [ Hidden for security reasons, If you wish to view, please ask to show password]
+You: ya correct
+Agent:Kindly read the Terms and Conditions here https://ksepiyas.com/terms. Once you have read and want to accept, kindly type "I agree."
+You: i agree.
+Agent:Registration successful. Welcome aboard, Pranav! If you need any more assistance, feel free to ask.
+--------------------------------------------------
+Chat started! (type 'exit' to quit)
+
+You: Hi
+Agent:Hi there! How can I help you today? I am here to guide you through the Ksepiyas Website.
+You: I want to register
+Agent:Hello! To complete your registration, I'll need a few details from you:
+1. Full Name
+2. Email
+3. Phone number (country code and mobile number)
+4. Password
+
+Let's start with your full name, please.
+You: Pranav
+Agent:Please provide your email address.
+You: xyz@gmail.com
+Agent:Sorry, I can't help with this. My purpose is to help you with the Ksepiyas Portal, I can help you to register on the Ksepiyas Website. Please let me know if you want to register.
+You: yes here is my email abc@gmail.com
+Agent:Got your email as abc@gmail.com. Please provide your country code and phone number now. If you don't know the country code, just let me know your country name.
+You: +91 5738429134
+Agent:Thank you for providing your phone number. Now, please set a password for your account. Make sure it's strong by including a mix of letters, numbers, and special characters.
+You: c236trs
+Agent:I have received all your details:
+
+Full Name: Pranav
+Email: abc@gmail.com
+Phone Number: +91 5738429134
+Password: ******* [Hidden for security reasons, If you wish to view password, please ask]
+
+Please review these details and let me know if they are correct or if you want to make any changes.
+You: yes
+Agent:Great! Your registration on the Ksepiyas Website is now complete. If you need any further assistance or want to explore other features, feel free to ask.
+--------------------------------------------------
+Chat started! (type 'exit' to quit)
+
+You: Hi
+Agent:Hi there! How can I help you today? I am here to guide you through the Ksepiyas Website.
+You: I want to register to the portal
+Agent:Hello! To complete your registration, I will need the following details from you:
+1. Full Name
+2. Email
+3. Phone number (including country code)
+4. Password
+
+Let's start with your full name, please.
+You: Pranav Kukreja
+Agent:Great, Pranav! Now, please enter your email address.
+You: abcd@gmail.com
+Agent:Thanks for providing your email. Now, please tell me your country code and phone number (without country code). If you don't know your country code, just let me know and tell me your country name.
+You: i dont know my country code
+Agent:No worries! Just tell me your country name, and I'll find the country code for you.
+You: india
+Agent:The country code for India is +91. Please provide your phone number excluding the country code.
+You: 8642397
+Agent:Could you please provide your 10-digit phone number for India?
+You: 9876542310
+Agent:Thank you. Your phone number is noted. Now, please enter your password.
+You: abc34
+Agent:Okay, I have gathered all the necessary details. Please review them and confirm if they are correct:
+
+Full Name: Pranav Kukreja
+Email: abcd@gmail.com
+Phone Number: +91 9876542310
+Password: ***** [Hidden for security reasons, if you want to view it, please ask]
+
+Kindly confirm if everything is correct or if you want to make changes to any details.
+You: yes everytinh is correct
+Agent:Great! Please read the Terms and Conditions here: https://ksepiyas.com/terms. Once you have read and want to accept, kindly type "I agree."
+You: I agree
+Agent:Your registration was successful. Welcome aboard, Pranav! If you need any further assistance, feel free to ask.
+--------------------------------------------------
+Chat started! (type 'exit' to quit)
+
+You: Hi
+Agent:Hi there! How can I help you today? I am here to guide you through the Ksepiyas Website.
